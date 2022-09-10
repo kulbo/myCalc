@@ -1,6 +1,5 @@
 package kr.co.smartsoft.mycalc
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import kr.co.smartsoft.mycalc.databinding.ActivityMainBinding
